@@ -9,7 +9,7 @@ CRITÉRIO DE ACEITE
 
 
 DADO que possua certificado digital válido
-E insire a senha correta
+E insere a senha correta
 QUANDO em clicar em logar
 ENTÃO tera acesso a plataforma.
 
